@@ -30,7 +30,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-###Start Jenkins
+### Start Jenkins
 
 You can enable the Jenkins service to start at boot with the command:
 
